@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:qvins/componnts/login_screen.dart';
+import 'package:qvins/screens/login/login_screen.dart';
 
 void main() {
   runApp(MyApp());
